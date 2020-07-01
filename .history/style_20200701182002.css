@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    padding: 0;
+    height: 100%;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -125,7 +127,7 @@ section {
 }
 
 .message-panel {
-    margin-left: 26%;
+    margin-left: 28%;
     width: 45%;
     height: 20%;
     background-image: linear-gradient(45deg, #ec4e8d, #ec4b74);
@@ -146,7 +148,6 @@ section {
 
 footer {
     position: absolute;
-    padding-left: 41%;
 }
 
 footer p {
@@ -180,9 +181,4 @@ footer p {
 
 .interests li {
     font-size: 20px;
-}
-
-.interests h3 {
-    font-size: 40px;
-    color: #ec4b74;
 }

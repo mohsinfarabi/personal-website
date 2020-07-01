@@ -142,11 +142,5 @@ section {
 
 .message-panel h5 {
     color: white;
-    font-size: 25px;
-    padding-bottom: 10%;
-}
-
-footer p {
-    text-align: center;
-    font-size: 15px;
+    font-size: 70px;
 }

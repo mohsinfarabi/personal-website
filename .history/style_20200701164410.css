@@ -84,12 +84,8 @@ p {
 .bottom-panel h5 {
     text-align: center;
     color: dimgray;
-    font-size: 15px;
-}
-
-.bottom-panel p {
-    text-align: center;
-    color: black;
+    font-size: 30px;
+    ;
 }
 
 section {

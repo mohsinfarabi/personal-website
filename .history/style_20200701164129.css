@@ -77,19 +77,12 @@ p {
 
 .bottom-panel h4 {
     text-align: center;
-    padding-top: 3%;
-    font-size: 25px;
+    padding-top: 2%;
+    font-size: 30px;
 }
 
 .bottom-panel h5 {
     text-align: center;
-    color: dimgray;
-    font-size: 15px;
-}
-
-.bottom-panel p {
-    text-align: center;
-    color: black;
 }
 
 section {

@@ -87,11 +87,6 @@ p {
     font-size: 15px;
 }
 
-.bottom-panel p {
-    text-align: center;
-    color: black;
-}
-
 section {
     height: 900px;
     padding-bottom: 150px;

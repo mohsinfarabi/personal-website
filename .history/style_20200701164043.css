@@ -72,24 +72,16 @@ p {
 .bottom-panel h3 {
     text-align: center;
     padding-top: 10%;
-    font-size: 45px;
+    font-size: 50px;
 }
 
 .bottom-panel h4 {
     text-align: center;
-    padding-top: 3%;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .bottom-panel h5 {
     text-align: center;
-    color: dimgray;
-    font-size: 15px;
-}
-
-.bottom-panel p {
-    text-align: center;
-    color: black;
 }
 
 section {
